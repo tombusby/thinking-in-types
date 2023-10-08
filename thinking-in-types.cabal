@@ -25,6 +25,8 @@ source-repository head
 
 library
   exposed-modules:
+      Chapter1.Algebra
+      Chapter2.TypeFamilies
       Lib
   other-modules:
       Paths_thinking_in_types
